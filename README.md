@@ -1,2 +1,1 @@
-# mindmaster
-思维导图
+> here's empty, cause now use gitee private project.
